@@ -1,1 +1,1 @@
-* linguist-language=xlsx
+*.xml linguist-detectable=false
