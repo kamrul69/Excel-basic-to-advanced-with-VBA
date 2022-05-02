@@ -1,1 +1,2 @@
-* linguist-language=VBA
+* linguist-vendored
+*.py linguist-vendored=false
