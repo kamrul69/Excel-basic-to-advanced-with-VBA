@@ -1,10 +1,8 @@
 ## Excel-basic-to-advanced-with-VBA
-
-<p>I'm a big fan of MS Excel and love to play with data by using it. <p/>
+I'm a big fan of MS Excel and love to play with data by using it.
   
 ### How to enter and edit your Text and Formulas by making a basic table: 
- 
-In this section I have discussed about very basic terms by making a table that is based on practical life.
+ In this section I have discussed about very basic terms by making a table that is based on practical life.
 
   <img src="./images/basic-excel-file-by-using-basic-terms.png" width="600" height="300">
   
