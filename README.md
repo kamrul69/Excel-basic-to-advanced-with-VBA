@@ -1,5 +1,3 @@
-
-
 ## Excel-basic-to-advanced-with-VBA
 
 <p>I'm a big fan of MS Excel and love to play with data by using it. <p/>
@@ -13,3 +11,11 @@ In this section I have discussed about very basic terms by making a table that i
 There are two references which are  <b>relative cell reference </b> and <b> absolute cell reference </b> that I have cleared by calculating percentages. What are the difference between euro and dollar, how can you add your currency, how can increase or discrease digites (cents) after main amount and how to calculate the total amount are shown during the whole section. You can go through my youtube channel and watch the video: https://www.youtube.com/watch?v=fLGENkmWqNM&t=2s 
   
 ### Basic Excel Functions:
+
+<b> Excel Function: </b> There are lots of predefined functions such as sum function, count function etc. in excel that has been built by Microsoft company. We should use these functions for saving our valuable time. An excel function has three parts-
+
+```diff
+= FUNCTION NAME(ARGUMENTS)
+For an example,
+=SUM(B3:B9)
+```
