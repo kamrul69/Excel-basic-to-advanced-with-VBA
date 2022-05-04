@@ -44,3 +44,8 @@ I am going to talk about images and shapes that you want to show your excel work
 
 ### Creating basic charts in Ms Excel
 
+Here I am talking about column and pie charts. I have added and modified data by using several options under chart design and format and also showed how we can move a chart to another worksheet. 
+
+### Printing an Excel worksheet
+
+
