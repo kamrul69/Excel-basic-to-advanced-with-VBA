@@ -17,3 +17,20 @@ There are two references which are  <b>relative cell reference </b> and <b> abso
 For an example,
 =SUM(B3:B9)
 ```
+
+### Modifying an Excel Worksheets:
+
+<b> Moving and copying data in an excel worksheets: <b/> 
+  
+  ```diff
+  For copying we can as a shortcut key control+c (for windows) or command+c (for macbook)
+  For moving just we have to use x instead of c
+  For paste just we have to use v instead of c
+  ```
+  
+ <b> Inserting rows and columns: 
+   
+   ```diff
+ 
+  ```
+ 
