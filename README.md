@@ -10,7 +10,7 @@ There are two references which are  <b>relative cell reference </b> and <b> abso
   
 ### Basic Excel Functions:
 
-<b> Excel Function: </b> There are lots of predefined functions such as sum function, count function etc. in excel that has been built by Microsoft company. We should use these functions for saving our valuable time. An excel function has three parts-
+<i> Excel Function: </i> There are lots of predefined functions such as sum function, count function etc. in excel that has been built by Microsoft company. We should use these functions for saving our valuable time. An excel function has three parts-
 
 ```diff
 = FUNCTION NAME(ARGUMENTS)
@@ -19,9 +19,10 @@ For an example,
 ```
 
 ### Modifying an Excel Worksheets:
+
 In this section I have discussed about the following sub-sections. To understand properly you can visit my youtube channel and watch the video
 
-1. <b> How to move and copy data in an excel worksheet <b/> 
+1. <i> How to move and copy data in an excel worksheet <i/> 
   
   ```diff
   For copying we can as a shortcut key control+c (for windows) or command+c (for macbook)
@@ -29,6 +30,9 @@ In this section I have discussed about the following sub-sections. To understand
   For paste just we have to use v instead of c
   ```
   
-2. <b> How to inserting rows and columns, change width and height of cells, hide and unhide excel rows and columns, rename and delete excel worksheets and finally move and copy excel worksheets <b/>
+2. <i> How to inserting rows and columns, change width and height of cells, hide and unhide excel rows and columns, rename and delete excel worksheets and finally move and copy excel worksheets <i/>
    
- 
+### Formating data in an excel worksheets:
+  
+  
+
