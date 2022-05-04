@@ -22,7 +22,7 @@ For an example,
 
 In this section I have discussed about the following sub-sections. To understand properly you can visit my youtube channel and watch the video
 
-1. <i> How to move and copy data in an excel worksheet <i/> 
+1. <b> How to move and copy data in an excel worksheet- <b/> 
   
   ```diff
   For copying we can as a shortcut key control+c (for windows) or command+c (for macbook)
@@ -30,9 +30,11 @@ In this section I have discussed about the following sub-sections. To understand
   For paste just we have to use v instead of c
   ```
   
-2. <i> How to inserting rows and columns, change width and height of cells, hide and unhide excel rows and columns, rename and delete excel worksheets and finally move and copy excel worksheets <i/>
-   
+2. <b> How to inserting rows and columns, change width and height of cells, hide and unhide excel rows and columns, rename and delete excel worksheets and finally move and copy excel worksheets- <b/>
+ 
 ### Formating data in an excel worksheets:
+  
+During this section I have talked about background of a cell, excel's format painter, marge and center of cells and finally conditional format. These basic terms are discussed in this video. Hope to enjoy and watch my video: 
   
   
 
