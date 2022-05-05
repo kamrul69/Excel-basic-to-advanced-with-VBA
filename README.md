@@ -48,4 +48,6 @@ Here I am talking about column and pie charts. I have added and modified data by
 
 ### Printing an Excel worksheet
 
+In this section I have talked about print preview, margin, scaling, page layout view, header & footer and finally specific print area. This section is really easy. Just watch it and try it out. 
 
+### Let's talk about Excel Template 
