@@ -51,3 +51,5 @@ Here I am talking about column and pie charts. I have added and modified data by
 In this section I have talked about print preview, margin, scaling, page layout view, header & footer and finally specific print area. This section is really easy. Just watch it and try it out. 
 
 ### Let's talk about Excel Template 
+
+Understanding Excel templete is really important. If you make a table by doing lots of calculation, you can save it as a template. You can use it again without doing calculation, just entry your data. That's it. Besides there are lots of ready microsoft online templete, you can download these and use anyone without making any function or doing any calculation. To get an idea just watch it and try it out
