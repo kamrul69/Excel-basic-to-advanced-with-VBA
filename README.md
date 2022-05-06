@@ -19,6 +19,7 @@ There are two references which are  <b>relative cell reference </b> and <b> abso
 For an example,
 =SUM(B3:B9)
 ```
+You can go through my youtube channel and watch the video on basic excel functions: https://www.youtube.com/watch?v=WD0uNgqDonk&list=PL3A70PxOg00ndqHcVaYrD2Lsue6APmoHw&index=2
 
 ### Modifying an Excel Worksheets
 
