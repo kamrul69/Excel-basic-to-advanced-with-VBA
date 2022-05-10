@@ -21,9 +21,9 @@ For an example,
 ```
 You can go through my youtube channel and watch the video on basic excel functions: https://www.youtube.com/watch?v=WD0uNgqDonk&list=PL3A70PxOg00ndqHcVaYrD2Lsue6APmoHw&index=2
 
-### Modifying an Excel Worksheets
+### Modifying an Excel Worksheet
 
-In this section I have discussed about the following sub-sections. To understand properly you can visit my youtube channel and watch the video
+In this section I have discussed about the following sub-sections. To understand properly you can visit my youtube channel and watch the video https://www.youtube.com/watch?v=zewh8loJXOw
 
 1. How to move and copy data in an excel worksheet-
   
