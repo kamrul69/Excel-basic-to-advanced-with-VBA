@@ -54,3 +54,8 @@ In this section I have talked about print preview, margin, scaling, page layout 
 ### Let's talk about Excel Template 
 
 Understanding Excel templete is really important. If you make a table by doing lots of calculation, you can save it as a template. You can use it again without doing calculation, just entry your data. That's it. Besides there are lots of ready microsoft online templete, you can download these and use anyone without making any function or doing any calculation. To get an idea just watch it and try it out
+
+### Working with an excel list
+
+ 1. Understanding excel list sturcture: For well planned list structure you have to make sure there is no empty column or row in your worksheet.
+ 2. 
