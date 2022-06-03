@@ -56,9 +56,14 @@ In this section I have talked about print preview, margin, scaling, page layout 
 Understanding Excel templete is really important. If you make a table by doing lots of calculation, you can save it as a template. You can use it again without doing calculation, just entry your data. That's it. Besides there are lots of ready microsoft online templete, you can download these and use anyone without making any function or doing any calculation. To get an idea just watch it and try it out
 
 ### Working with an excel list
-Here I am using <i>Excel Exercises 1.xlsx</i> file.
+I am using <i>Excel Exercises 1.xlsx</i> file. Here there are several worksheets. Let's go to start-
 
  1. <b>Understanding excel list sturcture:</b> For well planned list structure you have to make sure there is no empty column or row in your worksheet.
- 2. <b>Sorting a list using single level sort:</b> To do this just go to under <b>Data</b>. Then you will get an option which is sort. Then just click it whatever you want as ascending or descending. 
- 3. <b>Sorting a list deals with multi- level sort:</b> Really great opportunity for us, by this option we can sort multi levels at the same time. Here i use level 1 as Last Name as ascending order then i sort level 2 as First Name also as ascending order. Here important thing is at first level 1 is sorted then level 2. If level 1 has the same multiple time, in that time level 2 is sorted first as ascending order. Since same name work as a group in a level. 
- 4. <b>
+ 3. <b>Sorting a list using single level sort:</b> To do this just go to under <b>Data</b>. Then you will get an option which is sort. Then just click it whatever you want as ascending or descending. 
+ 4. <b>Sorting a list deals with multi- level sort:</b> Really great opportunity for us, by this option we can sort multi levels at the same time. Here I use level 1 as Last Name as ascending order then I sort level 2 as First Name also as ascending order. Here important thing is at first level 1 is sorted then level 2. If level 1 has the same multiple time, in that time level 2 is sorted first as ascending order. Since same name work as a group in a level. 
+ 5. <b>Using customs sorts in an excel list:</b> As a defult when you will not get your desire option under Data tab in Sort. Then you have to think about custom in Sort. Where you will find it? Don't need to go any where, just look here and find an Custom option under Order.
+ 6. <b> Filter an excel list using an Autofilter tool:</b> Autofilter tool is really great and super easy. Under Data tab you will get an option which is Filter. Just click here and several filted options are showed in header. Whatever you want to filter just do it.
+ 7. <b> Creating sub-totals in a list:</b> Go to sub-total worksheet. Under Data tab there is a sub-total option. Just click here and do it. Try it out. 
+ 8. <b> Formate a list as a Table:</b> You will face some problem if you don't formate. So to do it, just go to under Home tab; then you find a option which is Formate as Table. Just click it. Try it out. 
+ 9. <b> Using conditional formating to find duplicates:</b> Sometimes you need to identify the duplicate values in your worsheets. To do this just follow my instruction that is shown in the figure.  Home > Conditional Formating > Highlights cells Rules > Find duplicate tools. 
+ 10. <b> Removing Duplicates:</b> If you want to remove the duplicate id from you worksheet, then you might think about Remove Duplicate tools. To do this just go to under Data tab or Table tab. Then do it yourself. Try it out.
