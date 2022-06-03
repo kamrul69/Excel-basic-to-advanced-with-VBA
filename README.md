@@ -56,6 +56,9 @@ In this section I have talked about print preview, margin, scaling, page layout 
 Understanding Excel templete is really important. If you make a table by doing lots of calculation, you can save it as a template. You can use it again without doing calculation, just entry your data. That's it. Besides there are lots of ready microsoft online templete, you can download these and use anyone without making any function or doing any calculation. To get an idea just watch it and try it out
 
 ### Working with an excel list
+Here I am using <i>Excel Exercises 1.xlsx</i> file.
 
- 1. Understanding excel list sturcture: For well planned list structure you have to make sure there is no empty column or row in your worksheet.
- 2. 
+ 1. <b>Understanding excel list sturcture:</b> For well planned list structure you have to make sure there is no empty column or row in your worksheet.
+ 2. <b>Sorting a list using single level sort:</b> To do this just go to under <b>Data</b>. Then you will get an option which is sort. Then just click it whatever you want as ascending or descending. 
+ 3. <b>Sorting a list deals with multi- level sort:</b> Really great opportunity for us, by this option we can sort multi levels at the same time. Here i use level 1 as Last Name as ascending order then i sort level 2 as First Name also as ascending order. Here important thing is at first level 1 is sorted then level 2. If level 1 has the same multiple time, in that time level 2 is sorted first as ascending order. Since same name work as a group in a level. 
+ 4. <b>
