@@ -73,3 +73,6 @@ I am using <i>Excel Exercises 1.xlsx</i> file. Here there are several worksheets
  7. <b> Formate a list as a Table:</b> You will face some problem if you don't formate. So to do it, just go to under Home tab; then you find a option which is Formate as Table. Just click it. Try it out.<img src="./images/formate table.jpg" width="600" height="300"> 
  8. <b> Using conditional formating to find duplicates:</b> Sometimes you need to identify the duplicate values in your worsheets. To do this just follow my instruction that is shown in the figure.  Home > Conditional Formating > Highlights cells Rules > Find duplicate tools. <img src="./images/duplicate values.jpg" width="600" height="300">
  9. <b> Removing Duplicates:</b> If you want to remove the duplicate id from you worksheet, then you might think about Remove Duplicate tools. To do this just go to under Data tab or Table tab. Then do it yourself. Try it out.<img src="./images/remove duplicate.jpg" width="600" height="300">
+
+### Excel list functions
+
