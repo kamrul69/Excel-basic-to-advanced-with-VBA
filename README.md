@@ -65,8 +65,10 @@ I am using <i>Excel Exercises 1.xlsx</i> file. Here there are several worksheets
     <img src="./images/sorted figure1.jpg" width="600" height="300">
  4. <b>Using customs sorts in an excel list:</b> As a defult when you will not get your desire option under Data tab in Sort. Then you have to think about custom in Sort. Where you will find it? Don't need to go any where, just look here and find an Custom option under Order. 
     <img src="./images/custom sorts figure2.jpg" width="600" height="300">
- 5. <b> Filter an excel list using an Autofilter tool:</b> Autofilter tool is really great and super easy. Under Data tab you will get an option which is Filter. Just click here and several filted options are showed in header. Whatever you want to filter just do it.<img src="./images/Auto Filter.jpg" width="600" height="300">
- 6. <b> Creating sub-totals in a list:</b> Go to sub-total worksheet. Under Data tab there is a sub-total option. Just click here and do it. Try it out.    
+ 5. <b> Filter an excel list using an Autofilter tool:</b> Autofilter tool is really great and super easy. Under Data tab you will get an option which is Filter. Just click here and several filted options are showed in header. Whatever you want to filter just do it.
+ 
+    <img src="./images/Auto Filter.jpg" width="600" height="300">
+6. <b> Creating sub-totals in a list:</b> Go to sub-total worksheet. Under Data tab there is a sub-total option. Just click here and do it. Try it out.    
     <img src="./images/sub-total.jpg" width="600" height="300"> 
  7. <b> Formate a list as a Table:</b> You will face some problem if you don't formate. So to do it, just go to under Home tab; then you find a option which is Formate as Table. Just click it. Try it out.<img src="./images/formate table.jpg" width="600" height="300"> 
  8. <b> Using conditional formating to find duplicates:</b> Sometimes you need to identify the duplicate values in your worsheets. To do this just follow my instruction that is shown in the figure.  Home > Conditional Formating > Highlights cells Rules > Find duplicate tools. <img src="./images/duplicate values.jpg" width="600" height="300">
